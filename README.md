@@ -1,6 +1,6 @@
-# 1054 midterm - Cat or Dog "Which one do your prefer"
+# Project Name
 
-We are going to do a discussion about our argument of cat and dog.
+We are going to share our arguments and image of Dog and Cat.
 
 ## Installation
 
@@ -19,6 +19,9 @@ TODO: Write usage instructions
 5. Submit a pull request :D
 
 ## Credits
+
 Yaobo Tian and Yaobo Tian's 2nd account
 
-## Licens: MIT
+## License
+
+MIT
